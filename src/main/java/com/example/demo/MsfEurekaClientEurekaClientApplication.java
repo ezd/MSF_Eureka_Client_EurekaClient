@@ -8,7 +8,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 @SpringBootApplication
 @EnableDiscoveryClient
 public class MsfEurekaClientEurekaClientApplication {
-
+//
 	public static void main(String[] args) {
 		SpringApplication.run(MsfEurekaClientEurekaClientApplication.class, args);
 	}
